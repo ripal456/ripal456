@@ -6,13 +6,6 @@ I specialize in React, TypeScript, Laravel and Node.js, and I enjoy turning comp
 efficient and secure solutions. I’ve led teams, improved performance across systems, and built robust REST APIs  
 for real-time applications. I’m passionate about delivering high-quality code and continuously improving the user experience.
 
-🔥 What I Do
-- Build responsive frontends using React, TypeScript, Tailwind & Next.js
-- Develop secure, scalable RESTful APIs with Laravel, Node.js, PostgreSQL & MongoDB
-- Create interactive dashboards & data-visualizations using Chart.js
-- Improve performance, reduce load times & optimize state management  
-- Implement automated testing with Jest*
-- Build CI/CD pipelines** using GitHub Actions  
 
 💼 Professional Experience
 Full Stack Developer Intern — Ausbildungsbasis, Frankfurt  (Feb 2025 – Aug 2025)
