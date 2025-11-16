@@ -1,38 +1,81 @@
-# Hi, I'm Ripal Shah 👋  
-## Full Stack Developer | React • TypeScript • Laravel • Node.js
+<!-- Centered Typing Animation -->
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=98FB98&center=true&vCenter=true&width=700&lines=Hi+I'm+Ripal+Shah+👋;Full+Stack+Developer;React+%7C+TypeScript+%7C+Laravel+;I+Build+Scalable+Web+%26+Mobile+Apps" />
 
-I’m a full-stack developer with experience building scalable, user-friendly web and mobile applications.  
-I specialize in React, TypeScript, Laravel and Node.js, and I enjoy turning complex requirements into clean,  
-efficient and secure solutions. I’ve led teams, improved performance across systems, and built robust REST APIs  
-for real-time applications. I’m passionate about delivering high-quality code and continuously improving the user experience.
+</div>
+
+---
+
+<!-- Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header" />
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** who loves building fast, scalable and user-friendly applications.  
+From crafting beautiful UIs to designing secure REST APIs, I bring both creativity & engineering strength.
+
+I enjoy:  
+✨ Building modern frontends  
+🔥 Optimizing performance  
+🧪 Writing clean, tested code  
+⚡ Automating pipelines & deployments  
+
+---
+
+## 💼 Experience Highlights
+
+### 🔹 **Full Stack Developer Intern — Ausbildungsbasis, Frankfurt (2025)**  
+- Built secure **Laravel + PostgreSQL** APIs  
+- Improved UI performance using Tailwind & TypeScript  
+- Added full suite of **Jest tests** for stability
+
+### 🔹 **Frontend Developer — Nearby Technologies, Mumbai (2021–2023)**  
+- Led a React team to build a real-time payments SPA  
+- Optimized Redux → reduced network calls
+- Built React Native app → increased monthly transactions
+- Created CI/CD pipelines with GitHub Actions
+
+---
+
+<!-- ANIMATED SKILLS SECTION -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,next,html,css,tailwind,redux,nodejs,laravel,php,postgres,mongodb,docker,git,github,vscode" />
+
+</div>
+
+---
+
+<!-- Animated Project Cards -->
+## 📌 Featured Projects
+
+### 🌱 **EcoTrack – Energy Analytics Dashboard**  
 
 
-## 💼 Professional Experience
-### Full Stack Developer Intern — Ausbildungsbasis, Frankfurt  (Feb 2025 – Aug 2025)
-- Built secure RESTful APIs with Laravel + PostgreSQLfor real-time profile & document management  
-- Built a learning-management dashboard with Tailwind + TypeScript
-- Implemented Jest testing to ensure stability under various data loads  
+- Laravel REST API + PostgreSQL  
+- Next.js dashboard with Chart.js  
+- Helps users track & reduce energy usage  
 
-### Frontend Developer — Nearby Technologies, Mumbai  (Jan 2021 – Mar 2023)
-- Led a team of 5 to build a real-time SPA using Reactto improve payment transaction efficiency  
-- Enhanced state management with Redux
-- Built a React Native mobile payment solution
-- Automated CI/CD pipelines for 15+ products using  GitHub Actions
+<br clear="both"/>
 
-## 🚀 Featured Projects
-### EcoTrack – Energy Usage Dashboard
-- RESTful API built with Laravel + PostgreSQL 
-- Tools that help users monitor & reduce energy consumption  
-- Interactive dashboard built with Next.js + Chart.js
+---
 
-### ClassyWeather – Weather Forecast App
-- Built using React with real-time weather data via OpenMeteo API
-- Dynamic UI with icons, flags & daily forecasts  
-- Search functionality for 1000+ locations
+### 🌦 **ClassyWeather – Forecast Web App**  
 
-## 🛠 Tech Stack
 
-Frontend: React, TypeScript, JavaScript, Next.js, Tailwind, HTML, CSS, Chart.js  
-Backend: Node.js, Laravel, PHP, PostgreSQL, MongoDB  
-Tools & DevOps: Git, GitHub, Docker, Jest, CI/CD, Agile/Scrum  
-Languages: English (C1), German (A2), Gujarati, Hindi  
+- React + OpenMeteo API  
+- 1000+ location search  
+- Dynamic UI with icons, flags & forecasts  
+
+<br clear="both"/>
+
+
+
+<div align="center">
+  
+### ⭐ *Thanks for visiting — feel free to check out my projects or reach out!* ⭐
+
+</div>
