@@ -20,7 +20,7 @@ for real-time applications. I’m passionate about delivering high-quality code 
 - Automated CI/CD pipelines for 15+ products using  GitHub Actions
 
 ## 🚀 Featured Projects
-### EcoTrack – Energy Usage Dashboard**  
+### EcoTrack – Energy Usage Dashboard
 - RESTful API built with Laravel + PostgreSQL 
 - Tools that help users monitor & reduce energy consumption  
 - Interactive dashboard built with Next.js + Chart.js
