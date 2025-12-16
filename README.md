@@ -43,7 +43,7 @@ I enjoy:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,next,html,css,tailwind,redux,nodejs,laravel,php,postgres,mongodb,docker,git,github,vscode,konva" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,next,html,css,tailwind,redux,nodejs,laravel,php,postgres,mongodb,docker,git,github,vscode,Konva" />
 
 </div>
 
