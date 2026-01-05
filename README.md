@@ -75,7 +75,7 @@ I enjoy turning complex requirements into **clean, performant, and maintainable 
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ripal-shah-4783a5195)
-- 🌐 [Portfolio](#)
+- 🌐 [Portfolio](https://ripal-shah-portfolio.netlify.app/)
 - 📧 Email: ripalshah3838@gmail.com
 
 ⭐ **Thanks for visiting — feel free to explore my repositories or reach out!**
