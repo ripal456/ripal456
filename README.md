@@ -1,51 +1,82 @@
 # 👋 Hi, I'm Ripal Shah
 
-🚀 **Full-Stack Web Developer** | React • TypeScript • Laravel • Node.js  
-⚡ Building fast, scalable & user-centric web applications
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ripal456&color=blue)
-![Followers](https://img.shields.io/github/followers/ripal456?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ripal456?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ripal456?label=Stars&style=social)
+
+🚀 **Full-Stack Web Developer** | ⚡ Performance Enthusiast | 🧠 Problem Solver  
+
+I build **fast, scalable, and user-focused web applications** using modern frontend frameworks and secure backend systems.  
+I enjoy turning complex requirements into **clean, performant, and maintainable solutions**.
 
 ---
 
-## 🧑‍💻 About Me
-I specialize in **modern web development**, crafting **high-performance frontends** and **secure backend APIs**.  
-Experienced in **React ecosystems**, **RESTful architecture**, and **CI/CD automation**, with a strong focus on clean code and scalability.
+## 🔥 What I Do
+- ✨ Build modern UIs with **React, TypeScript, Next.js & Tailwind CSS**
+- 🔐 Design secure, scalable **REST APIs** with **Laravel & Node.js**
+- ⚡ Optimize performance (rendering, state management, API latency)
+- 🧪 Write clean, tested, production-ready code
+- 🚀 Automate CI/CD pipelines and deployments
+
+---
+
+## 💼 Experience
+### 🧑‍💻 Full Stack Developer Intern — Ausbildungsbasis (Frankfurt)
+- Built **secure Laravel + PostgreSQL APIs**
+- Improved UI performance using **Tailwind & TypeScript**
+- Added **high-coverage Jest tests** for stability
+
+### 🧑‍🎨 Frontend Developer — Nearby Technologies (Mumbai)
+- Led a **React team** building real-time payment SPAs
+- Optimized Redux → **reduced network calls**
+- Built **React Native apps** scaling monthly transactions
+- Created **CI/CD pipelines** with GitHub Actions
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
-**Backend:** Laravel, Node.js, Express, PostgreSQL, MongoDB  
-**Tools:** Git, GitHub Actions, Jest, CI/CD, REST APIs  
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+### 🧩 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
 ---
 
-## 📌 Featured Work
-- 🌱 **EcoTrack** — Energy analytics dashboard (Laravel + Next.js)
-- 🌦 **ClassyWeather** — Weather analytics app with rich UI & APIs
-- 🧠 **TripMind** — AI-powered travel booking platform with payments
+## 📌 Featured Projects
 
----
+### 🌱 EcoTrack – Energy Analytics Dashboard
+- Laravel REST API + PostgreSQL  
+- Next.js dashboard with Chart.js  
+- Helps users track & reduce energy usage
 
-## 📊 GitHub Stats
-![Ripal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ripal456&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripal456&layout=compact&theme=react&hide_border=true)
+### 🌦 ClassyWeather – Forecast Web App
+- React + OpenMeteo API  
+- 1000+ location search  
+- Dynamic UI with icons, flags & forecasts
 
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ripal456&theme=onedark&no-frame=true&row=1)
-
----
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripal456&theme=react-dark&hide_border=true)
+### 🧠 TripMind – AI Tour Booking Platform
+- Node.js, Express, MongoDB  
+- NLP-based search & recommendations  
+- Stripe payments + JWT authentication
 
 ---
 
 ## 📫 Let’s Connect
-💼 [LinkedIn](https://linkedin.com/in/ripal-shah-4783a5195)  
-📧 ripalshah3838@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/ripal-shah-4783a5195)
+- 🌐 [Portfolio](#)
+- 📧 Email: ripalshah3838@gmail.com
 
-⭐ Open to **web development roles**, **open-source collaboration**, and **challenging projects**
+⭐ **Thanks for visiting — feel free to explore my repositories or reach out!**
