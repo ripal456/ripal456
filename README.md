@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ripal Shah
 
-![Profile Views](https://komarev.com/ghpvc/?username=ripal456&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/ripal456?label=Followers&style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/ripal456?label=Stars&style=social)
 
 🚀 **Full-Stack Web Developer** | ⚡ Performance Enthusiast | 🧠 Problem Solver  
