@@ -22,11 +22,11 @@ I enjoy turning complex requirements into **clean, performant, and maintainable 
 ## 💼 Experience
 ## Master’s Thesis Student - Ostbayerische Technische Hochschule Regensburg (Regensburg)
 Topic: Development of a browser-based GUI for high-frequency modeling of transformers for dielectric stress prediction.
-- Developed a **high-performance, browser-based GUI** for high-frequency transformer modeling and dielectric stress visualization.
-- Implemented **XML-to-JSON serialization** using Fast-XML-Parser, achieving **improvement in geometry computation performance**.
-- Applied **TypeScript** for type-safe processing of complex engineering data and built an **engineering-oriented UI** with Tailwind CSS.
-- Delivered **smooth real-time interaction (~60 FPS)** for stress prediction and visualization using React.
-- Architected **optimized 2D canvas rendering** with Konva.js, efficiently handling **turns and coils**, resulting in **faster rendering performance**.
+- Developed a **browser-based GUI** for transformer dielectric stress visualization.
+- Implemented **XML-to-JSON serialization** using Fast-XML-Parser.
+- Applied **TypeScript** for type-safe processing.
+- Delivered real-time interaction for stress visualization using React.
+- Architected **optimized 2D canvas rendering** with Konva.js.
 
 ### 🧑‍💻 Full Stack Developer Intern — Ausbildungsbasis (Frankfurt)
 - Built **secure Laravel + PostgreSQL APIs**
