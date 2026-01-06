@@ -20,8 +20,7 @@ I enjoy turning complex requirements into **clean, performant, and maintainable 
 ---
 
 ## 💼 Experience
-## Master’s Thesis Student  
-**Ostbayerische Technische Hochschule Regensburg**
+## Master’s Thesis Student - Ostbayerische Technische Hochschule Regensburg (Regensburg)
 Topic: Development of a browser-based GUI for high-frequency modeling of transformers for dielectric stress prediction.
 - Developed a **high-performance, browser-based GUI** for high-frequency transformer modeling and dielectric stress visualization.
 - Implemented **XML-to-JSON serialization** using Fast-XML-Parser, achieving **improvement in geometry computation performance**.
