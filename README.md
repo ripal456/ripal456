@@ -30,7 +30,7 @@ Topic: Development of a browser-based GUI for high-frequency modeling of transfo
 
 ### 🧑‍💻 Full Stack Developer Intern — Ausbildungsbasis (Frankfurt)
 - Built **secure Laravel + PostgreSQL APIs**
-- Improved UI performance using **Tailwind & TypeScript**
+- Improved UI performance using **Angular**
 - Added **high-coverage Jest tests** for stability
 
 ### 🧑‍🎨 Frontend Developer — Nearby Technologies (Mumbai)
@@ -48,7 +48,7 @@ Topic: Development of a browser-based GUI for high-frequency modeling of transfo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-06B6D4?logo=angular&logoColor=white)
 ### 🧩 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
