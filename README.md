@@ -22,12 +22,13 @@ Currently completing my Master's in Electrical & Microsystems Engineering at OTH
 
 ## 💼 Experience
 
-### 🎓 Master's Thesis Student — OTH Regensburg *(Oct 2025 – Mar 2026)*
+### 🎓 Master's Thesis Student — OTH Regensburg *(Oct 2025 – May 2026)*
 **Topic:** Browser-based GUI for high-frequency transformer modelling and dielectric stress prediction
 
-- Developed an interactive UI with **React & TypeScript**, achieving **60 FPS** for real-time transient overvoltage visualization
-- Architected **optimized 2D canvas rendering** with Konva.js for 3,000+ turns and 300+ coils — up to **5× faster rendering**
-- Implemented **XML-to-JSON serialization** using fast-xml-parser, improving data processing efficiency by **70%**
+- Developed an interactive UI using React and TypeScript for two-dimensional transformer winding geometry visualization, achieving rendering performance of up to 60 FPS.
+- Implemented XML-to-JSON parsing using fast-xml-parser to convert complex transformer configuration files into a structured domain model, enabling accurate winding coordinate computation in under 10 ms.
+- Rendered complex transformer winding geometries with thousands of individual turns by implementing a Konva.js canvas scene graph, achieving up to 5× faster visualization speed. 
+
 
 ### 🧑‍💻 Full Stack Developer Intern — Ausbildungsbasis, Frankfurt *(Mar 2025 – Aug 2025)*
 
