@@ -23,7 +23,7 @@ Currently completing my Master's in Electrical & Microsystems Engineering at OTH
 ## 💼 Experience
 
 ### 🎓 Master's Thesis Student — OTH Regensburg *(Oct 2025 – May 2026)*
-**Topic:** Browser-based GUI for high-frequency transformer modelling and dielectric stress prediction
+**Topic:** Development of a browser-based GUI for high-frequency transformer modelling for dielectric stress prediction and visualization.
 
 - Developed an interactive UI using React and TypeScript for two-dimensional transformer winding geometry visualization, achieving rendering performance of up to 60 FPS.
 - Implemented XML-to-JSON parsing using fast-xml-parser to convert complex transformer configuration files into a structured domain model, enabling accurate winding coordinate computation in under 10 ms.
